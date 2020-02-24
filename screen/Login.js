@@ -33,7 +33,7 @@ class Login extends Component {
           <Text> Entrar </Text>
               </Button>
               <Button style = {misEstilos.boton}>
-                <Text> Entrar </Text>
+                <Text> Iniciar </Text>
                 </Button> 
             </CardItem>
           </Card>
